@@ -1,0 +1,8 @@
+crewai
+crewai_tools
+python-dotenv
+fastapi
+uvicorn
+websockets
+litellm
+openai
