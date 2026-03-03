@@ -106,4 +106,5 @@ While NeoForge AI is running, you can monitor progress in real-time:
 
 ## 📄 License
 
-[License Type] - See LICENSE for details.
+Feel free to use and upgrade the project with your Knowledge.
+
